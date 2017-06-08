@@ -1,2 +1,4 @@
 attack of the orcs
-# based on "Learning Python Application Development" by Ninad Sathaye
+text based game
+
+based on "Learning Python Application Development" by Ninad Sathaye
